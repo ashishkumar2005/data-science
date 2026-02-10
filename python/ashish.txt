@@ -1,0 +1,6 @@
+ashish
+60000
+ashish
+Ashish@123
+Name:- ashish
+opening balance= 60000
